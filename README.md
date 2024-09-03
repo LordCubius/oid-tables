@@ -1,7 +1,7 @@
 # oid-tables
 
 System Group
-[https://oid-rep.orange-labs.fr/get/1.3.6.1.2.1.1](1.3.6.1.2.1.1)
+[1.3.6.1.2.1.1](https://oid-rep.orange-labs.fr/get/1.3.6.1.2.1.1)
  	
 ```
 See IETF RFC 2863 and RFC 3418.
